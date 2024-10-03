@@ -60,6 +60,14 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
 </p>
 
+## Projetos:
+
+### Calculadora de IMC
+
+  Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** desenvolvida com **HTML, CSS e JavaScript**. Ele permite que os usuários insiram seu peso e altura para calcular o IMC e, com base no resultado, exibe uma mensagem indicando a classificação de acordo com a tabela de IMC da Organização Mundial da Saúde (OMS).
+
+[Clique aqui](https://calculadora-imc-chi-seven.vercel.app/) para acessar a aplicação.
+
 ## Contatos:
 <div>
 <a href = "mailto:2001.vieira.diego@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -69,11 +77,3 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/H-w7stM8IPkAAAAd/hate-mondays-puss-in-boots.gif" width="300" height="300" />
 </div>
-
-## Projetos:
-
-### Calculadora de IMC
-
-  Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** desenvolvida com **HTML, CSS e JavaScript**. Ele permite que os usuários insiram seu peso e altura para calcular o IMC e, com base no resultado, exibe uma mensagem indicando a classificação de acordo com a tabela de IMC da Organização Mundial da Saúde (OMS).
-
-[Clique aqui](https://calculadora-imc-chi-seven.vercel.app/) para acessar a aplicação.
