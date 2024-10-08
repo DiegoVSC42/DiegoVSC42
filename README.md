@@ -68,6 +68,12 @@
 
 [Clique aqui](https://calculadora-imc-chi-seven.vercel.app/) para acessar a aplicação.
 
+### Carrinho de Compras
+
+  Este projeto é uma aplicação web para gerenciar um carrinho de compras. Permite adicionar itens com nome, valor e quantidade, além de atualizar o valor total automaticamente conforme os itens são adicionados, editados ou excluídos.
+  
+[Clique aqui](https://carrinho-de-compras-five-nu.vercel.app/) para acessar a aplicação.
+
 ## Contatos:
 <div>
 <a href = "mailto:2001.vieira.diego@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
