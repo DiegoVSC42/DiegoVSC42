@@ -66,13 +66,13 @@
 
   Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** desenvolvida com **HTML, CSS e JavaScript**. Ele permite que os usuários insiram seu peso e altura para calcular o IMC e, com base no resultado, exibe uma mensagem indicando a classificação de acordo com a tabela de IMC da Organização Mundial da Saúde (OMS).
 
-[Clique aqui](https://calculadora-imc-chi-seven.vercel.app/) para acessar a aplicação.
+[Clique aqui](https://diegovsc42.github.io/Calculadora-IMC/) para acessar a aplicação.
 
 ### Carrinho de Compras
 
   Este projeto é uma aplicação web para gerenciar um carrinho de compras. Permite adicionar itens com nome, valor e quantidade, além de atualizar o valor total automaticamente conforme os itens são adicionados, editados ou excluídos.
   
-[Clique aqui](https://carrinho-de-compras-five-nu.vercel.app/) para acessar a aplicação.
+[Clique aqui](https://diegovsc42.github.io/Carrinho-de-Compras/) para acessar a aplicação.
 
 ## Contatos:
 <div>
