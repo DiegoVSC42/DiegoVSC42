@@ -74,6 +74,13 @@
   
 [Clique aqui](https://diegovsc42.github.io/Carrinho-de-Compras/) para acessar a aplicação.
 
+### Conversor de Moedas
+
+  Este é um **Conversor de Moedas** que permite converter valores entre diferentes moedas em tempo real. O projeto faz uso de **HTML**, **CSS** e **JavaScript**, além de consumir dados de uma API de conversão de moedas.
+
+[Clique aqui](https://diegovsc42.github.io/Conversor-de-Moedas/) para acessar a aplicação.
+
+
 ## Contatos:
 <div>
 <a href = "mailto:2001.vieira.diego@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
