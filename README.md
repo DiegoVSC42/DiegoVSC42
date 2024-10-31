@@ -1,89 +1,109 @@
-# Olá, me chamo Diego Vieira !
+# Olá, me chamo Diego Vieira!
+
 ## Bem vindo(a) ao meu perfil GitHub 👋
 
-- Atualmente estou trabalhando em automação de processos júridicos através do Google Apps Scripts em planilhas Google
+Ultimamente tenho estudado Angular e Java para criação de aplicações web completas com integração a banco de dados
 
-- Ultimamente tenho estudado Data Science com Python utilizando a biblioteca Pandas para análise dos dados e as bibliotecas Matplotlib e Plotly para geração de gráficos
-  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" width="40" height="40" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-plain.svg" width="40" height="40" />   
-  </p>
-<div>
-
-<div>
-<details>
-  <summary>🧑 Mais sobre mim</summary>
-
-- 🔭 Estou atualmente em uma jornada para me aprofundar na área de dados, com foco especial em **extração de dados**.
-
-- 🌱 Estou aprendendo sobre **Data Science**, **Data Visualization** e **Web Scraping**, buscando aplicar esses conhecimentos em projetos práticos.
-
-- 🤝 Estou em busca de colaboração e insights para **projetos de Web Scraping**, então qualquer ajuda ou sugestão é bem-vinda!
-
-- 📫 Sinta-se à vontade para entrar em contato comigo pelo e-mail **2001.vieira.diego@gmail.com**. Estou aberto a conversar sobre ideias e oportunidades.
-
-</details>
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
 </p>
 
 <div>
   <a href="https://github.com/DiegoVSC42">
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoVSC42&layout=compact&langs_count=7&theme=transparent"/>
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=DiegoVSC42&show_icons=true&theme=transparent"/>
+  </a>
 </div>
 
-
-  
 ## Ferramentas e Tecnologias
+
+### Front-end
+
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="40" height="40"/>
 </p>
+
+### Back-end
+
 <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40" />&nbsp;&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40"/>   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+ 	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
 </p>
+
+### Data Science
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" width="40" height="40"/>
+</p>
+
+### Mobile
+
+<p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" width="40" height="40"/>
+</p>
+
+### Outros
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
+
+ </p>
 
 ## Projetos:
 
 ### Calculadora de IMC
 
-  Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** desenvolvida com **HTML, CSS e JavaScript**. Ele permite que os usuários insiram seu peso e altura para calcular o IMC e, com base no resultado, exibe uma mensagem indicando a classificação de acordo com a tabela de IMC da Organização Mundial da Saúde (OMS).
+Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** desenvolvida com **HTML, CSS e JavaScript**. Ele permite que os usuários insiram seu peso e altura para calcular o IMC e, com base no resultado, exibe uma mensagem indicando a classificação de acordo com a tabela de IMC da Organização Mundial da Saúde (OMS).
 
 [Clique aqui](https://diegovsc42.github.io/Calculadora-IMC/) para acessar a aplicação.
 
 ### Carrinho de Compras
 
-  Este projeto é uma aplicação web para gerenciar um carrinho de compras. Permite adicionar itens com nome, valor e quantidade, além de atualizar o valor total automaticamente conforme os itens são adicionados, editados ou excluídos.
-  
+Este projeto é uma aplicação web para gerenciar um carrinho de compras. Permite adicionar itens com nome, valor e quantidade, além de atualizar o valor total automaticamente conforme os itens são adicionados, editados ou excluídos.
+
 [Clique aqui](https://diegovsc42.github.io/Carrinho-de-Compras/) para acessar a aplicação.
 
 ### Conversor de Moedas
 
-  Este é um **Conversor de Moedas** que permite converter valores entre diferentes moedas em tempo real. O projeto faz uso de **HTML**, **CSS** e **JavaScript**, além de consumir dados de uma API de conversão de moedas.
+Este é um **Conversor de Moedas** que permite converter valores entre diferentes moedas em tempo real. O projeto faz uso de **HTML**, **CSS** e **JavaScript**, além de consumir dados de uma API de conversão de moedas.
 
 [Clique aqui](https://diegovsc42.github.io/Conversor-de-Moedas/) para acessar a aplicação.
 
+### Sistema de gerenciamento de estoque
+
+Um sistema de gerenciamento de produtos (CRUD) que permite adicionar, visualizar, editar e excluir produtos de um estoque. O projeto foi desenvolvido com Angular e utiliza JSON para simular um backend.
+
+**Observação**: No momento, não é possível fazer o deploy da aplicação, pois está utilizando um backend simulado localmente.
+
+[Clique aqui](https://diegovsc42.github.io/Stock-Manager/) para acessar o repositório da aplicação.
+
 
 ## Contatos:
+
 <div>
-<a href = "mailto:2001.vieira.diego@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="mailto:2001.vieira.diego@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/diegovsc42" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
