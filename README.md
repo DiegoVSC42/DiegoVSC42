@@ -104,6 +104,15 @@ Um sistema de gerenciamento de produtos (CRUD) que permite adicionar, visualizar
 
 [Clique aqui](https://diegovsc42.github.io/Stock-Manager/) para acessar o repositório da aplicação.
 
+### What The Number
+
+Uma API para obter informações detalhadas sobre números específicos.
+
+[Clique aqui](https://github.com/DiegoVSC42/what-the-number) para acessar o repositório da aplicação.
+
+[Clique aqui](https://what-the-number.up.railway.app/number-info/) para acessar a aplicação.
+
+**Nota**: Adicione um número inteiro positivo após `/number-info/` na URL para realizar a consulta.  
 
 ## Contatos:
 
