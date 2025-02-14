@@ -106,7 +106,7 @@ Este é um **Conversor de Moedas** que permite converter valores entre diferente
 
 Um sistema de gerenciamento de produtos (CRUD) que permite adicionar, visualizar, editar e excluir produtos de um estoque. O projeto foi desenvolvido com Angular e utiliza Java com Spring Boot no Backend, aplicando persistência em um banco Postgresql. Também é possível utilizar json-server para simulação.
 
-[Clique aqui](https://diegovsc42.github.io/Stock-Manager/) para acessar o repositório da aplicação.
+[Clique aqui](https://github.com/DiegoVsc42/Stock-Manager/) para acessar o repositório da aplicação.
 
 ### What The Number
 
