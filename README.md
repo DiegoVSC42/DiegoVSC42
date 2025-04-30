@@ -2,7 +2,7 @@
 
 ## Bem vindo(a) ao meu perfil GitHub 👋
 
-Ultimamente tenho estudado Angular e Java para criação de aplicações web completas com integração a banco de dados
+Desenvolvedor Full Stack com foco em desenvolvimento web, especializado em Java, Spring Boot, Angular e TypeScript para criação de aplicações escaláveis e responsivas.
 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width="40" height="40" />   
@@ -12,7 +12,7 @@ Ultimamente tenho estudado Angular e Java para criação de aplicações web com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/>
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
 </p>
 
 <div>
@@ -79,44 +79,33 @@ Ultimamente tenho estudado Angular e Java para criação de aplicações web com
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40"/>
  </p>
 
 ## Projetos:
 
-### Calculadora de IMC
+Aqui está a versão aprimorada mantendo a formatação e estilo:
 
-Este projeto é uma **calculadora de IMC (Índice de Massa Corporal)** desenvolvida com **HTML, CSS e JavaScript**. Ele permite que os usuários insiram seu peso e altura para calcular o IMC e, com base no resultado, exibe uma mensagem indicando a classificação de acordo com a tabela de IMC da Organização Mundial da Saúde (OMS).
+## Match-Up
 
-[Clique aqui](https://diegovsc42.github.io/Calculadora-IMC/) para acessar a aplicação.
+API completa para organização de partidas esportivas, permitindo a criação de equipes, gerenciamento de jogadores e rodízio automático entre partidas. Desenvolvida em Java com Spring Boot, oferece endpoints para formatação de listas, distribuição de jogadores em equipes e atualização dinâmica conforme resultados. A solução está dockerizada para fácil deploy e inclui documentação Swagger interativa.
 
-### Carrinho de Compras
+[Clique aqui](https://github.com/DiegoVSC42/matchup-api) para acessar o repositório da aplicação.  
+[Clique aqui](https://single-emmy-diegovsc42-b390a8d8.koyeb.app/swagger-ui/index.html) para testar a API online.
 
-Este projeto é uma aplicação web para gerenciar um carrinho de compras. Permite adicionar itens com nome, valor e quantidade, além de atualizar o valor total automaticamente conforme os itens são adicionados, editados ou excluídos.
+## What The Number
 
-[Clique aqui](https://diegovsc42.github.io/Carrinho-de-Compras/) para acessar a aplicação.
+Sistema especializado em análise numérica que retorna propriedades matemáticas, curiosidades e informações culturais sobre qualquer número inteiro positivo. A arquitetura combina frontend em Angular com backend em Java.. Inclui tratamento de erros para entradas inválidas e exibição detalhada das características numéricas.
 
-### Conversor de Moedas
-
-Este é um **Conversor de Moedas** que permite converter valores entre diferentes moedas em tempo real. O projeto faz uso de **HTML**, **CSS** e **JavaScript**, além de consumir dados de uma API de conversão de moedas.
-
-[Clique aqui](https://diegovsc42.github.io/Conversor-de-Moedas/) para acessar a aplicação.
+[Clique aqui](https://github.com/DiegoVSC42/what-the-number) para acessar o repositório.  
+[Clique aqui](https://what-the-number-frontend.vercel.app/) para experimentar a aplicação (adicione um número após `/number-info/` na URL).
 
 ### Sistema de Gerenciamento de Estoque
 
 Um sistema de gerenciamento de produtos (CRUD) que permite adicionar, visualizar, editar e excluir produtos de um estoque. O projeto foi desenvolvido com Angular e utiliza Java com Spring Boot no Backend, aplicando persistência em um banco Postgresql. Também é possível utilizar json-server para simulação.
 
 [Clique aqui](https://github.com/DiegoVsc42/Stock-Manager/) para acessar o repositório da aplicação.
-
-### What The Number
-
-Uma API para obter informações detalhadas sobre números específicos.
-
-[Clique aqui](https://github.com/DiegoVSC42/what-the-number) para acessar o repositório da aplicação.
-
-[Clique aqui](https://what-the-number-frontend.vercel.app/) para acessar a aplicação.
-
-**Nota**: Adicione um número inteiro positivo após `/number-info/` na URL para realizar a consulta.  
 
 ## Contatos:
 
