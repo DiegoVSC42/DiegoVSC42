@@ -85,23 +85,21 @@ Desenvolvedor Full Stack com foco em desenvolvimento web, especializado em Java,
 
 ## Projetos:
 
-Aqui está a versão aprimorada mantendo a formatação e estilo:
-
-## Match-Up
+### Match-Up
 
 API completa para organização de partidas esportivas, permitindo a criação de equipes, gerenciamento de jogadores e rodízio automático entre partidas. Desenvolvida em Java com Spring Boot, oferece endpoints para formatação de listas, distribuição de jogadores em equipes e atualização dinâmica conforme resultados. A solução está dockerizada para fácil deploy e inclui documentação Swagger interativa.
 
 [Clique aqui](https://github.com/DiegoVSC42/matchup-api) para acessar o repositório da aplicação.  
 [Clique aqui](https://single-emmy-diegovsc42-b390a8d8.koyeb.app/swagger-ui/index.html) para testar a API online.
 
-## What The Number
+### What The Number
 
 Sistema especializado em análise numérica que retorna propriedades matemáticas, curiosidades e informações culturais sobre qualquer número inteiro positivo. A arquitetura combina frontend em Angular com backend em Java.. Inclui tratamento de erros para entradas inválidas e exibição detalhada das características numéricas.
 
 [Clique aqui](https://github.com/DiegoVSC42/what-the-number) para acessar o repositório.  
 [Clique aqui](https://what-the-number-frontend.vercel.app/) para experimentar a aplicação (adicione um número após `/number-info/` na URL).
 
-## Sistema de Gerenciamento de Estoque
+### Sistema de Gerenciamento de Estoque
 
 Um sistema de gerenciamento de produtos (CRUD) que permite adicionar, visualizar, editar e excluir produtos de um estoque. O projeto foi desenvolvido com Angular e utiliza Java com Spring Boot no Backend, aplicando persistência em um banco Postgresql. Também é possível utilizar json-server para simulação.
 
